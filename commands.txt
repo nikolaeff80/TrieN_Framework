@@ -1,0 +1,5 @@
+cd /
+cd mnt/c/
+cd PyProjects/trien/
+
+gunicorn main:application
